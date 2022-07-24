@@ -1,0 +1,5 @@
+@import "./base.css";
+
+wrapper {
+  @apply px-4 block;
+}
